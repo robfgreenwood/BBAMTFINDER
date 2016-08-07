@@ -13,7 +13,7 @@ public class ATM {
     }
     
     public String getMe(){
-    	return "RobFGreenwood 7/Aug/2016";
+    	return "RobGreenwood 7/Aug/2016";
     }
     
     
